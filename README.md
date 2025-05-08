@@ -1,6 +1,5 @@
 # Big-data-project
 
-# Big Data Engineering Project
 
 ## Real‑Time API Data Processing with the Hadoop Ecosystem
 
